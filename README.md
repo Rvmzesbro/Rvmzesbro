@@ -31,7 +31,7 @@ Currently focused on **C#** and **.NET**. I love solving complex problems and tu
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:galeevramazan64@gmail.com" margin="10px">
+  <a href="mailto:galeevramazan64@gmail.com" margin="100px">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" height="30" alt="Email"/>
   </a>
   <a href="https://t.me/KisloSladki">
