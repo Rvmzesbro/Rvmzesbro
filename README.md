@@ -1,8 +1,15 @@
 
-#  🖐🏼 Hi there, I'm **Ramazan**
-## 💻 Backend Developer from Kazan
+<div id="header" align="center">
+  <img src="#" width="100"/>
+</div>
+
+<h1>
+  <img src="https://private-user-images.githubusercontent.com/74038190/243199547-42077049-1939-493e-9a19-47ca5db36643.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMwNTQwNTksIm5iZiI6MTc2MzA1Mzc1OSwicGF0aCI6Ii83NDAzODE5MC8yNDMxOTk1NDctNDIwNzcwNDktMTkzOS00OTNlLTlhMTktNDdjYTVkYjM2NjQzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTEzVDE3MDkxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM5MjdiNDJiNjk1MjQ1MDQ5NzRkOGQ2NDJhZmE0ZTViZjIwZjRjMTFjNWQ0M2U2YzcxYmUyNWYwMjExNzc3Y2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6uTamE2Pv46li4RBUlrL7ZUsEeaTHjf4-O-CBG4uFMY" width="40px"/>
+  Hi there, I'm Ramazan
+</h1>
+<h2>💻 Backend Developer from Kazan</h2>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="600" height="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="900" height="400"/>
 </div>
 
 > _"Technology transforms business — I write the code that powers that transformation."_
