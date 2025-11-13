@@ -62,6 +62,7 @@ Currently focused on **C#** and **.NET**. I love solving complex problems and tu
 <p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" title="Docker" width="30" />
+  <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/jira.png" title="Jira" width="30" />
 </p>
 
 ### 🎬 Creative Tools
