@@ -12,7 +12,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="900" height="400"/>
 </div>
 <br>
-> _"I am passionate about software development"_
+
+<div>
+   <i>"I am passionate about software development"</i>
+</div>
 
 ---
 
@@ -21,10 +24,10 @@
 
 ### I'm currently working on C# (.NET). I like to solve complex problems and translate ideas into reliable code.
 
-- 📍 **Based in:** Kazan, Russia  
-- 📚 **Learning:** Deep dive into high-load backend architecture  
-- 🧠 **Skills:** System design, REST API, distributed systems   
-- 🎓 **Education:** Student at the International Competence Center – Kazan College of Information Technology and Communications  
+ 📌 **Based in:** Kazan, Russia  
+ 📚 **Learning:** Deep dive into high-load backend architecture  
+ 🧠 **Skills:** System design, REST API, distributed systems   
+ 🎓 **Education:** Student at the International Competence Center – Kazan College of Information Technology and Communications  
   - **Major:** Information Systems and Programming  
   - **Qualification:** Programmer  
 
@@ -47,7 +50,7 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" width="30" />
 </p>
 
-### 💥 Frontend
+### 🎀 Frontend
 <p>
   <!-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS" width="30" />
@@ -86,7 +89,7 @@
 ---
 
 <!--## 📊 GitHub Stats-->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center"> 📈 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rvmzesbro&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" height="150" />
