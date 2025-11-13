@@ -1,9 +1,4 @@
 
-<br clear="both">
-
-
-
-
 #  🖐🏼 Hi there, I'm **Ramazan**
 ## 💻 Backend Developer from Kazan
 <div align="center">
