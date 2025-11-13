@@ -7,11 +7,10 @@
 
 
 #  🖐🏼 Hi there, I'm **Ramazan**
+## 💻 Backend Developer from Kazan
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="600" height="300"/>
 </div>
-
-## 💻 Backend Developer from Kazan
 
 > _"Technology transforms business — I write the code that powers that transformation."_
 
