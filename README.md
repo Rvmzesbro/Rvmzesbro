@@ -20,8 +20,7 @@ Currently focused on **C#** and **.NET**. I love solving complex problems and tu
 
 - 📍 **Based in:** Kazan, Russia  
 - 📚 **Learning:** Deep dive into high-load backend architecture  
-- 🧠 **Skills:** System design, REST API, distributed systems  
-- 📧 **Email:** [galeevramazan64@gmail.com](mailto:galeevramazan64@gmail.com)  
+- 🧠 **Skills:** System design, REST API, distributed systems   
 - 🎓 **Education:** Student at the International Competence Center – Kazan College of Information Technology and Communications  
   - **Major:** Information Systems and Programming  
   - **Qualification:** Developer  
