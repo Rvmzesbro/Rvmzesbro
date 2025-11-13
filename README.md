@@ -41,7 +41,7 @@ Currently focused on **C#** and **.NET**. I love solving complex problems and tu
 
 ---
 
-### 📄 Tech Stack
+# 📄 Tech Stack
 
 ### 🌌 Backend
 <p>
