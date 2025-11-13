@@ -42,7 +42,7 @@ Currently focused on **C#** and **.NET**. I love solving complex problems and tu
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" width="30" />
 </p>
 
-### 🎨 Frontend
+### 💥 Frontend
 <p>
   <!-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS" width="30" />
@@ -64,13 +64,13 @@ Currently focused on **C#** and **.NET**. I love solving complex problems and tu
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" title="Figma" width="30" />
 </p>
 
-### 💻 OS
+### 🖥 OS
 <p>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" title="Windows" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" width="30" />
 </p>
 
-### 🛠️ IDE and Code Editors
+### 🧱 IDE and Code Editors
 <p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VS Code" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" title="Visual Studio" width="30" />
