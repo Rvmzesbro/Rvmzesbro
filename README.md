@@ -11,22 +11,21 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="900" height="400"/>
 </div>
-
-> _"Technology transforms business — I write the code that powers that transformation."_
+<br>
+> _"I am passionate about software development"_
 
 ---
 
 ## 🔍 About Me
 
-### I'm a backend developer with a passion for building scalable and maintainable systems.  
-Currently focused on **C#** and **.NET**. I love solving complex problems and turning ideas into reliable code.
+### I'm currently working on C# (.NET). I like to solve complex problems and translate ideas into reliable code.
 
 - 📍 **Based in:** Kazan, Russia  
 - 📚 **Learning:** Deep dive into high-load backend architecture  
 - 🧠 **Skills:** System design, REST API, distributed systems   
 - 🎓 **Education:** Student at the International Competence Center – Kazan College of Information Technology and Communications  
   - **Major:** Information Systems and Programming  
-  - **Qualification:** Developer  
+  - **Qualification:** Programmer  
 
 ---
 
