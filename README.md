@@ -5,11 +5,11 @@
   <img height="300" width="600" src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA4NjkzMTQsIm5iZiI6MTc1MDg2OTAxNCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI1VDE2MzAxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQyOWE0NGQwZDc2NDRkNTIwODMwYzRmOTdhMzQxOWQ0Y2UzNDM0NWY3NmMyZDcwNjlhNzYwMWJkZjZiZjMzYmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.SWEdkZLQYWzn71mS05TdqAxpbK34nhvdiBJNKjs2VW4"  />
 </div>
 
+
+#  🖐🏼 Hi there, I'm **Ramazan**
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="600" height="300"/>
 </div>
-
-#  🖐🏼 Hi there, I'm **Ramazan**
 
 ## 💻 Backend Developer from Kazan
 
