@@ -31,13 +31,12 @@ Currently focused on **C#** and **.NET**. I love solving complex problems and tu
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:ilnazikwork@gmail.com" style="float: left; margin-right: 10px;">
+  <a href="mailto:galeevramazan64@gmail.com">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" height="30" alt="Email"/>
   </a>
-  <a href="https://t.me/JustIlnaz" style="float: left;">
+  <a href="https://t.me/KisloSladki">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="30" alt="Telegram"/>
   </a>
-  <div style="clear: both;"></div>
 </p>
 
 ---
