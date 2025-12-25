@@ -48,6 +48,7 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" title="C#" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" title=".NET" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" width="30" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" title="MSSQL" width="30" />
 </p>
 
 ### 🎀 Frontend
